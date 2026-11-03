@@ -1,5 +1,5 @@
 # about
-A super duper cool handheld game console in a style of an Nintendo DS. Instead of two normal displays I replaced them with two e-ink displays and the chip with an ESP32-C6 devkitM-1.
+A super duper cool handheld game console in a style of an Nintendo DS. Instead of two normal displays I replaced them with two e-ink displays and the chip with an ESP32-C6 devkitM-1. All build from scratch and without AI.
 
 # features
 It features two e-inks, eight buttons, 1 000 mAh LI-PO battery, a step up convertor + battery charger in one and mainly an ESP32-C6 devkitM-1, which you can take out. Games are dyno, snake and more to come or you could make.
